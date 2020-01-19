@@ -1,0 +1,8 @@
+node_modules
+package-lock.json
+package.json
+debug.log
+gulpfile.js
+script.js
+style.sass
+style.css.map
